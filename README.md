@@ -8,7 +8,7 @@
 
 <!-- - *Specializes in **front-end development*** -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopubarodeveloper)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 <h2 align="center">Statistics 📈 </h2>
