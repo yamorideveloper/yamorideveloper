@@ -13,8 +13,8 @@
 ---
 <h2 align="center">Statistics 📈 </h2>
 
-| <a href=""><img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" /></a> |
-| ------------- | ------------- |
+| <a href=""><img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" /></a> 
+
 
 
 
