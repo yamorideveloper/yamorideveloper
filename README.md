@@ -15,7 +15,7 @@
 
 <a href="#hi-im-abhishek-jadhav">
   <a href="#hi-im-abhishek-jadhav">
-<img src="https://readme-stats.warengonzaga.com/api?username=kopubarodeveloper&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=6e19ea&text_color=e4d8f1&icon_color=2ebb83&hide_border=true" alt="abhishek-stats" align="left" width="60%" />
+<img src="https://readme-stats.warengonzaga.com/api?username=kopubarodeveloper&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=6b63fa&text_color=9c9cfc&icon_color=6c6c7c&hide_border=true" alt="abhishek-stats" align="left" width="60%" />
      <img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="left" width="30%" /> 
 </a>
  </a>
@@ -25,9 +25,7 @@
 
 ---
 <h2 align="center">Contribution Graph 📊</h2>
-
-[![Anup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kopubarodeveloper&bg_color=00000000&color=e4d8f1&line=2ebb83&point=e39167&area=true&area_color=6e19ea&title_color=6e19ea&hide_border=true )](https://github.com/kopubarodeveloper)
-  
+ 
 [![Anup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kopubarodeveloper&bg_color=00000000&color=9c9cfc&line=6b63fa&point=6c6c7c&area=true&area_color=6b63fa40&title_color=6b63fa&hide_border=true)](https://github.com/kopubarodeveloper) 
 ---
  <h2 align="center">Tools & Technologies ⚡</h2>
