@@ -56,3 +56,24 @@ ___
 </p>
 
 
+# Hi, I'm Abhishek Jadhav <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" height="24" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=100&size=20&duration=3400&pause=100&color=2F81F7&width=435&height=30&lines=Full+Stack+Developer;Blockchain+Developer;Team+Player+%7C+Lead+%7C+Independent)](https://git.io/typing-svg)
+<br/>
+Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Technology](https://pict.edu/) majoring in Information Technology. I am a full-stack software developer from India with a proven ability to deliver high-quality solutions. Currently working as a Software Engineer at [Stackera](https://stackera.io/).
+
+<a href="#hi-im-abhishek-jadhav">
+  <img src="https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/output/generated/overview.svg" alt="abhishek-stats" align="right" />
+</a
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="16" height="16" /> I'm currently working @ [Stackera](https://stackera.io/)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="16" height="16" /> Worked @ [Heim Labs](https://www.heimlabs.com/), [Web3Shield](https://www.web3shield.com/), [PICT, Pune](https://pict.edu/), [Huf India Pvt. Ltd.](https://www.huf-group.com/en)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Wheel%20of%20Dharma.png" alt="Wheel of Dharma" width="16" height="16" /> Former Web Head @ [PICT CSI Students Branch](https://www.pictcsi.com/)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="16" height="14" /> Formaer Web Domain Head @ [GDSC, PICT](https://github.com/GDSC-PICT)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="16" height="14" /> Former Web Team Head @ [InC'23, PICT](https://pictinc.org/)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="16" height="14" /> Trying to be better each day.
+  <br>
+
+### Connect to talk and build together
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&color=0a2351&labelColor=0D1117)](https://www.linkedin.com/in/abhishekjadhav2002/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&color=0a2351&labelColor=0D1117)](https://twitter.com/Abhishek_Jadhv) [![StackOverflow](https://img.shields.io/badge/stackoverflow-color.svg?style=flat-square&logo=Stackoverflow&color=0a2351&labelColor=0D1117)](https://stackoverflow.com/users/17222693/abhishek-jadhav?tab=profile) [![Instagram](https://img.shields.io/badge/instagram-color.svg?&style=flat-square&logo=instagram&color=0a2351&labelColor=0D1117)](https://www.instagram.com/abhi_jadhav_2002)
