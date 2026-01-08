@@ -8,6 +8,7 @@
 
 <!-- - *Specializes in **front-end development*** -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=100&size=20&duration=3400&pause=100&color=2F81F7&width=435&height=30&lines=Full+Stack+Developer;Blockchain+Developer;Team+Player+%7C+Lead+%7C+Independent)](https://git.io/typing-svg)
 
 
 ---
