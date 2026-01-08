@@ -59,14 +59,14 @@ ___
 </p>
 
 
-<!--___
+___
 <h2 align="center">Support 💰</h2>
 <p align="center">
 <a href="https://www.buymeacoffee.com/kopubarodeveloper" target="_blank"> <img align="center" src="https://gist.github.com/kopubarodeveloper/2f8a08a98e7424d68e7b53d18639ce09/raw/cdab115f48d1bcfcd0b30ab663ee1fe5d7edf110/buymeacoffee.png" width="116" border="0" alt="kopubarodeveloper" /></a>
-</p> -->
+</p> 
 
 
-<!-- <p align="center"> 
+ <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer"> <img src="./src/images/tech/js.png" alt="javascript" height="40"/> </a>  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/html5.png" alt="html5" height="40" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/css3.png" alt="css3" height="40"/> </a> 
@@ -79,34 +79,34 @@ ___
 <a href="https://mongodb.com/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/mongodb.png" alt="mongodb" height="40"/> </a> 
 <a href="https://typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/ts.png" alt="typescript" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/git.png" alt="git" height="40"/> </a>   
-</p> -->
+</p> 
 
 
  
-<!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> -->
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 
-<!--  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
  
 
-<!-- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> -->
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
 
-<!-- <p align="center">
+ <p align="center">
 <a href="https://twitter.com/haldar_anup1" target="_blank"><img align="center" src="./src/images/social/twitter.png" alt="anup" height="28" width="38" /></a>
 <a href="https://www.linkedin.com/in/kopubarodeveloper/" target="blank"><img align="center" src="./src/svgs/social/linkedin.svg" alt="anup" height="30" width="42" /></a>
 <a href="https://www.instagram.com/haldar_anup1/" target="blank"><img align="center" src="./src/svgs/social/instagram.svg" alt="anup" height="30" width="40" /></a>
 <a href="https://medium.com/@kopubarodeveloper" target="blank"><img align="center" src="./src/svgs/social/medium.svg" alt="kopubarodeveloper" height="30" width="40" /></a>
-</p> -->
+</p> 
 
  
-<!-- ---
+
 <h2 align="center">Languages</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopubarodeveloper&layout=compact&theme=tokyonight" />
-<p/> -->
+<p/> 
 
 
-<!-- **kopubarodeveloper/kopubarodeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **kopubarodeveloper/kopubarodeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
