@@ -1,2 +1,2 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kopubarodeveloper=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apikopubarodeveloper=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
