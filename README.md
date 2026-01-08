@@ -28,7 +28,7 @@
 
 [![Anup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kopubarodeveloper&bg_color=00000000&color=e4d8f1&line=2ebb83&point=e39167&area=true&area_color=6e19ea&title_color=6e19ea&hide_border=true )](https://github.com/kopubarodeveloper)
   
- 
+[![Anup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kopubarodeveloper&bg_color=00000000&color=9c9cfc&line=6b63fa&point=6c6c7c&area=true&area_color=6b63fa40&title_color=6b63fa&hide_border=true)](https://github.com/kopubarodeveloper) 
 ---
  <h2 align="center">Tools & Technologies ⚡</h2>
  <p align="center">
