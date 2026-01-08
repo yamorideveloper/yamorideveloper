@@ -15,7 +15,7 @@
 
 <a href="#hi-im-abhishek-jadhav">
    <img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
-  <img src="https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/output/generated/overview.svg" alt="abhishek-stats" align="right" />
+  <img src="https://raw.githubusercontent.com/AbhishekJadhav2002/kopubarodeveloper/output/generated/overview.svg" alt="abhishek-stats" align="right" />
 </a
   
 
