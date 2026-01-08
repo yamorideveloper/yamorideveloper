@@ -13,7 +13,7 @@
 ---
 <h2 align="center">Statistics 📈 </h2>
 
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=kopubarodeveloper&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anup's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopubarodeveloper&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <img boder="2px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" height="300px" align="right" alt="Error to load the image"> |
 | ------------- | ------------- |
 
 <!-- <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=kopubarodeveloper&show_icons=true&theme=tokyonight" /> -->
