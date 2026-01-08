@@ -3,6 +3,8 @@
 ## About Me 🙂
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=30&duration=3400&pause=100&color=6B63FA&width=600&height=45&lines=WEB+DEVELOPER;HOST+DEVELOPER;VIRTUALIZATION+ADMINISTRATOR;TEX+OWNER+DAYZ)](https://git.io/typing-svg)
 - ***Разработчик web site***
+- ***Разработчик ботов для discord***
+- ***Начинающий разработчик web приложений***
 - ***Open-source завхоз***
 - ***TEX - ADMIN DAYZ SERVER***
 - ***TEX - ADMIN RUST SERVER***
