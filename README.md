@@ -15,9 +15,9 @@
 
 <a href="#hi-im-abhishek-jadhav">
    <a href="#hi-im-abhishek-jadhav">
-<img src="https://readme-stats.warengonzaga.com/api?username=kopubarodeveloper&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="abhishek-stats" align="left" width="52%" />
+<img src="https://readme-stats.warengonzaga.com/api?username=kopubarodeveloper&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="abhishek-stats" align="left" width="60%" />
 </a>
-   <img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />  
+   <img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="left" width="60%" />  
 </a>
 
 
