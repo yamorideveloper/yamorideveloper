@@ -13,7 +13,9 @@
 ---
 <h2 align="center">Statistics 📈 </h2>
 
-| <a href=""><img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" /></a> 
+## About Me 🙂
+- *A passionate **Software developer** who writes interesting **bugs***
+- ***Open-source** enthusiast* <a href=""><img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" /></a> 
 
 
 
