@@ -21,8 +21,7 @@
 </a>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kopubarodeveloper&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kopubarodeveloper&stroke=EB1F1F" alt="GitHub Streak" /></a>
 ---
 <h2 align="center">Contribution Graph 📊</h2>
 
