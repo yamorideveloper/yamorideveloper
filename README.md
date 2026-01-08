@@ -28,7 +28,7 @@
 
 [![Anup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kopubarodeveloper&theme=chartreuse-dark)](https://github.com/kopubarodeveloper/github-readme-activity-graph)
 
-
+[![Anup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kopubarodeveloper&bg_color=00000000&color=e4d8f1&line=2ebb83&point=e39167&area=true&area_color=6e19ea&title_color=6e19ea&hide_border=true)](https://github.com/kopubarodeveloper)
   
  
 ---
