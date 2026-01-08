@@ -30,12 +30,12 @@
  
 [![Anup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kopubarodeveloper&bg_color=00000000&color=9c9cfc&line=6b63fa&point=6c6c7c&area=true&area_color=6b63fa40&title_color=6b63fa&hide_border=true)](https://github.com/kopubarodeveloper) 
 ---
- <h2 align="center">Tools & Technologies ⚡</h2>
+<!-- <h2 align="center">Tools & Technologies ⚡</h2>
  <p align="center">
   <a href="https://anuphaldar.com">
     <img src="https://skillicons.dev/icons?i=js,typescript,html,css,sass,react,redux,vue,nodejs,express,nestjs,postgres,mongodb,git" />
   </a>
 </p>
 
-
+-->
 
