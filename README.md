@@ -19,9 +19,7 @@
 </a>
    <img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="left" width="30%" /> 
 </a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kopubarodeveloper&theme=tokyonight-duo)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kopubarodeveloper&stroke=EB1F1F" alt="GitHub Streak" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 ---
 <h2 align="center">Contribution Graph 📊</h2>
 
