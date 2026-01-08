@@ -14,16 +14,12 @@
 <h2 align="center">Statistics 📈 </h2>
 
 <a href="#hi-im-abhishek-jadhav">
-   <img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
-
-   
+   <img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />  
 </a>
-  
+<a href="#hi-im-abhishek-jadhav">
+<img src="https://readme-stats.warengonzaga.com/api?username=kopubarodeveloper&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="abhishek-stats" align="left" width="50%" />
+</a>
 
-
-
-
- <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=kopubarodeveloper&show_icons=true&theme=tokyonight" /> 
 
 ---
 <h2 align="center">Contribution Graph 📊</h2>
