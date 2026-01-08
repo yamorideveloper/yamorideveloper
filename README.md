@@ -45,10 +45,11 @@
  
 [![Anup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kopubarodeveloper&bg_color=00000000&color=9c9cfc&line=6b63fa&point=6c6c7c&area=true&area_color=6b63fa40&title_color=6b63fa&hide_border=true)](https://github.com/kopubarodeveloper) 
 ---
+
 <h2 align="center">⚡KPY - NO - HAKING⚡</h2>
 ---
 <img align="center" src="https://media.discordapp.net/attachments/1457744583390789732/1457745008403812415/image.png?ex=69606a15&is=695f1895&hm=2c69389b6d811a33ba99600ff532094daf3f84cc7be2c69ef1beaf9543c40e5e&=&format=webp&quality=lossless&width=1730&height=902" align="left" /> 
----
+
 <!-- <h2 align="center">Tools & Technologies ⚡</h2>
  <p align="center">
   <a href="https://anuphaldar.com">
