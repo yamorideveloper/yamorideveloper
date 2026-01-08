@@ -2,10 +2,13 @@
 
 ## About Me 🙂
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=30&duration=3400&pause=100&color=6B63FA&width=600&height=45&lines=WEB+DEVELOPER;HOST+DEVELOPER;VIRTUALIZATION+ADMINISTRATOR;TEX+OWNER+DAYZ)](https://git.io/typing-svg)
-- *A passionate **Software developer** who writes interesting **bugs***
-- ***Open-source** enthusiast*
-- ***Trying** and **exploring** new stuff*
-#### Checkout my [bio.link](https://kopubarodeveloper.bio.link) profile for more details.
+- ***Разработчик web site***
+- ***Open-source завхоз***
+- ***TEX - ADMIN DAYZ SERVER***
+- ***TEX - ADMIN RUST SERVER***
+- ***Владелец Хостинга игровых серверов для DayZ***
+
+####  Больше информации в сообществе моего дискорд [сервера!](https://discord.gg/qkrrVYytaM)
 
 <!-- - *Specializes in **front-end development*** -->
 
