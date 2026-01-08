@@ -13,8 +13,9 @@
 ---
 <h2 align="center">Statistics 📈 </h2>
 
-| <a href=""><img align="center" src="[https://github-readme-stats.vercel.app/api?username=kopubarodeveloper&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true]https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Anup's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopubarodeveloper&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href=""><img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Anup's github stats" /></a> | <a href=""><img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" /></a> |
 | ------------- | ------------- |
+
 
 
 <!-- <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=kopubarodeveloper&show_icons=true&theme=tokyonight" /> -->
