@@ -1,4 +1,4 @@
-## **Hey** <img src="https://gist.githubusercontent.com/kopubarodeveloper/aad23918f5ad8bff5199094c9f6d337a/raw/a19b90e65fcffa0eabd3874b66520b91ee9f0e60/hi.gif" width="29">, **I'm [Anup](https://anuphaldar.com/), Good to see you here!**
+## **Hey** <img src="https://raw.githubusercontent.com/ishandeveloper/Portfolio/df19bc0d81454f9451be0f0de18a647163384fd7/assets/img/undraw_code_review_l1q9.svg" width="29">, **I'm [Anup](https://anuphaldar.com/), Good to see you here!**
 
 ## About Me 🙂
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=30&duration=3400&pause=100&color=6B63FA&width=600&height=45&lines=WEB+DEVELOPER;HOST+DEVELOPER;VIRTUALIZATION+ADMINISTRATOR;TEX+OWNER+DAYZ)](https://git.io/typing-svg)
