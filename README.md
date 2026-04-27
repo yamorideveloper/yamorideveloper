@@ -28,17 +28,45 @@
 
 
 ---
-<h2 align="center">Statistics</h2>
+<h2 align="center">📊 Statistics</h2>
 
-<a href="#hi-im-abhishek-jadhav">
-  <img src="https://github-readme-stats.vercel.app/api?username=yamorideveloper&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=6b63fa&text_color=6c6c7c&hide_border=true" alt="abhishek-stats" align="left" width="50%">
-</a>
-<a href="#hi-im-abhishek-jadhav">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaelliMedeiros/master/image/computer-illustration.png" align="left" width="30%" />
-</a>
-  
+<br>
 
+<!-- Основная статистика -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="60%">
+      <img src="https://github-readme-stats.vercel.app/api?username=yamorideveloper&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=6b63fa&text_color=c9d1d9&icon_color=6b63fa&hide_border=true&ring_color=6b63fa" width="100%">
+    </td>
+    <td align="center" width="40%">
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaelliMedeiros/master/image/computer-illustration.png" width="200px">
+    </td>
+  </tr>
+</table>
 
+<br>
+
+<!-- Дополнительная статистика (ваши кастомные данные) -->
+<h3 align="center">🔥 Yamori Ko's GitHub Stats</h3>
+
+<table align="center" width="80%">
+  <tr>
+    <td align="center">⭐ <b>Total Stars Earned</b></td>
+    <td align="center">📝 <b>Total Commits</b></td>
+    <td align="center">🔄 <b>Total PRs</b></td>
+    <td align="center">🐛 <b>Total Issues</b></td>
+    <td align="center">🤝 <b>Contributed (last year)</b></td>
+  </tr>
+  <tr>
+    <td align="center"><font size="+2"><b>12</b></font></td>
+    <td align="center"><font size="+2"><b>156</b></font></td>
+    <td align="center"><font size="+2"><b>1</b></font></td>
+    <td align="center"><font size="+2"><b>0</b></font></td>
+    <td align="center"><font size="+2"><b>1</b></font></td>
+  </tr>
+</table>
+
+<br>
 
 ---
 <h2 align="center">Contribution Graph 📊</h2>
