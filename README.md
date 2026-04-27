@@ -28,23 +28,16 @@
 
 
 ---
-<h2 align="center">📊 Statistics</h2>
+<h2 align="center">Statistics</h2>
 
-<br>
+<a href="#hi-im-abhishek-jadhav">
+  <img src="https://github-readme-stats.vercel.app/api?username=yamorideveloper&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=6b63fa&text_color=6c6c7c&hide_border=true" alt="abhishek-stats" align="left" width="60%">
+</a>
+<a href="#hi-im-abhishek-jadhav">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaelliMedeiros/master/image/computer-illustration.png" align="left" width="30%" />
+</a>
 
-<!-- Основная статистика -->
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="60%">
-      <img src="https://github-readme-stats.vercel.app/api?username=yamorideveloper&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=6b63fa&text_color=c9d1d9&icon_color=6b63fa&hide_border=true&ring_color=6b63fa" width="100%">
-    </td>
-    <td align="center" width="40%">
-      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaelliMedeiros/master/image/computer-illustration.png" width="200px">
-    </td>
-  </tr>
-</table>
-
-<br>
+<br clear="both"/>
 
 <!-- Дополнительная статистика (ваши кастомные данные) -->
 <h3 align="center">🔥 Yamori Ko's GitHub Stats</h3>
