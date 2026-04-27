@@ -31,15 +31,13 @@
 <h2 align="center">Statistics</h2>
 
 <a href="#hi-im-abhishek-jadhav">
-  <img src="https://github-readme-stats.vercel.app/api?username=yamorideveloper&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=6b63fa&text_color=6c6c7c&hide_border=true&ring_color=6b63fa" alt="abhishek-stats" align="left" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api?username=yamorideveloper&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=6b63fa&text_color=6c6c7c&hide_border=true&ring_color=6b63fa&v=20260427" alt="abhishek-stats" align="left" width="60%">
 </a>
 <a href="#hi-im-abhishek-jadhav">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaelliMedeiros/master/image/computer-illustration.png" align="left" width="30%" />
 </a>
 
 <br clear="both"/>
-
-<br>
 
 <!-- Дополнительная статистика (ваши кастомные данные) -->
 <h3 align="center">🔥 Yamori Ko's GitHub Stats</h3>
