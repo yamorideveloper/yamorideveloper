@@ -28,14 +28,14 @@
 
 
 ---
-<h2 align="center">Statistics 📈 </h2>
+<h2 align="center">Statistics</h2>
 
 <a href="#hi-im-abhishek-jadhav">
-  <a href="#hi-im-abhishek-jadhav">
-<img src="https://readme-stats.warengonzaga.com/api?username=yamorideveloper&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=6b63fa&text_color=9c9cfc&icon_color=6c6c7c&hide_border=true" alt="abhishek-stats" align="left" width="60%" />
-     <img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="left" width="30%" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=yamorideveloper&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=6b63fa&text_color=6c6c7c&hide_border=true" alt="abhishek-stats" align="left" width="60%">
 </a>
- </a>
+<a href="#hi-im-abhishek-jadhav">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaelliMedeiros/master/image/computer-illustration.png" align="left" width="30%" />
+</a>
   
 
 
